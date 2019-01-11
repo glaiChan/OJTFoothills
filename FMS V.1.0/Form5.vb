@@ -4,7 +4,7 @@ Public Class Form5
     Dim query As String
     Dim prod_query As String
     'RAndell
-
+    'HAHAHAHAH
 #Region "form Load"
     Private Sub Form5_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         cbogender.selectedIndex = 0
