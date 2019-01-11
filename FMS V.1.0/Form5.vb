@@ -3,7 +3,7 @@ Public Class Form5
     'Dim users As New Class_Particular
     Dim query As String
     Dim prod_query As String
-
+    'RAndell
 
 #Region "form Load"
     Private Sub Form5_Load(sender As Object, e As EventArgs) Handles MyBase.Load
